@@ -1,0 +1,19 @@
+From: "Accounts Billing" <billing@saas-provider.com>
+To: admin@vasavi.ac.in
+Subject: Action Required: Overdue Subscription Invoice and Payment Reauthorization
+Date: Sat, 21 Nov 2026 11:15:00 +0530
+Message-ID: <invoice-action-50@saas-provider.com>
+Return-Path: <bounce@external-payment-gateway.net>
+Reply-To: collections@external-payment-gateway.net
+Received-SPF: fail (edge.vasavi.ac.in: domain of saas-provider.com does not designate 198.51.100.22 as permitted sender)
+Received: from 198.51.100.22 (relay.external-payment-gateway.net [198.51.100.22]) by edge.vasavi.ac.in with ESMTP; Sat, 21 Nov 2026 11:15:02 +0530
+
+Dear Administrator,
+
+Your cloud hosting subscription invoice #8841-A is overdue for payment.
+Please reauthorize your payment method and review the overdue billing statement:
+http://bit.ly/cloud-hosting-invoice-reauthorize
+
+Please verify your corporate credentials and payment card before access is temporarily restricted.
+
+Billing Department

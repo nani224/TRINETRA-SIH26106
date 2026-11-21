@@ -1,0 +1,24 @@
+From: "State Bank of India Security" <security@onlinesbi.sbi>
+To: target.user@gmail.com
+Subject: URGENT: Complete Mandatory NetBanking KYC Verification
+Date: Sat, 21 Nov 2026 12:00:00 +0530
+Message-ID: <sbi-security-kyc-alert@onlinesbi.sbi>
+Return-Path: <bounce@sbi-online-auth-verification.com>
+Reply-To: helpdesk@sbi-online-auth-verification.com
+Received-SPF: fail (edge-inbound.mail.net: domain of onlinesbi.sbi does not designate 185.220.101.5 as permitted sender)
+Authentication-Results: edge-inbound.mail.net; spf=fail; dmarc=fail action=reject
+Received: from 185.220.101.5 (tor-exit-node-de.org [185.220.101.5]) by edge-inbound.mail.net with ESMTP; Sat, 21 Nov 2026 12:00:02 +0530
+
+Dear Customer,
+
+Your NetBanking access and debit card have been flagged due to unverified KYC under RBI Circular guidelines.
+Failure to update your KYC details within 24 hours will result in permanent account freeze and forfeiture of online transaction rights.
+
+Click the link below immediately to authenticate your credentials, PAN card, and NetBanking password:
+http://185.220.101.5/sbi-portal/login.php
+http://sbi-kyc-verify.com/login.html
+
+Do not ignore this warning. Immediate action is mandatory.
+
+Chief Security Officer,
+State Bank of India

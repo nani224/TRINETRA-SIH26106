@@ -1,0 +1,28 @@
+From: "CBI Cyber Crime Cell" <directorate@cbi-gov.in>
+To: target.citizen@gmail.com
+Subject: FINAL NOTICE: Non-Bailable Arrest Warrant - Digital Arrest Order Under Section 66D IT Act
+Date: Sat, 21 Nov 2026 13:00:00 +0530
+Message-ID: <cbi-fir-arrest-warrant-2026@cbi-gov.in>
+Return-Path: <relay-spoof@darknet-bulletproof.ru>
+Reply-To: investigator-desk@darknet-bulletproof.ru
+Received-SPF: fail (edge-mta.gateway.in: domain of cbi-gov.in does not designate 185.220.101.5 as permitted sender)
+Authentication-Results: edge-mta.gateway.in; spf=fail; dkim=fail; dmarc=fail action=reject
+DKIM-Signature: v=1; a=rsa-sha256; d=cbi-gov.in; s=2026; bh=invalidhash==; b=forgedsignature==
+Received: from mail.darknet-bulletproof.ru (185.220.101.5) by edge-mta.gateway.in with ESMTP; Sat, 21 Nov 2026 13:00:03 +0530
+Received: from 185.220.101.5 (tor-exit-01.torproject.org [185.220.101.5]) by mail.darknet-bulletproof.ru; Sat, 21 Nov 2026 13:00:01 +0530
+
+COURT SUMMONS AND FORMAL NOTICE OF DIGITAL ARREST UNDER CRPC SECTION 41A AND IT ACT SECTION 66D.
+
+You are formally indicted as the primary suspect in an ongoing Money Laundering and Terror Financing syndicate under FIR No. 2026/CBI/ND-4102.
+An immediate, non-bailable warrant of arrest has been registered against your national identity Aadhaar Number 9876-5432-1098 and PAN Card ABCDE1234F.
+
+BY ORDER OF THE HON'BLE SPECIAL COURT:
+You are placed under immediate 'DIGITAL ARREST'. You are strictly forbidden from contacting local police, leaving your residence, or notifying family members.
+To prevent immediate SWAT dispatch to your physical address, you must immediately connect to the secure judicial verification portal and deposit ₹4,50,000 security collateral into the RBI Verified Escrow Account:
+http://bit.ly/cbi-judicial-escrow-portal
+
+Failure to complete credential verification and collateral transfer within 90 minutes will trigger immediate physical arrest by state police tactical teams.
+
+Deputy Inspector General of Police,
+Cyber & Economic Offences Wing,
+Central Bureau of Investigation, New Delhi

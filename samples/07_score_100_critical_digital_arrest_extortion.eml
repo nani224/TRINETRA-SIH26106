@@ -1,0 +1,47 @@
+From: "Central Bureau of Investigation (CBI)" <directorate@cbi-gov.in>
+To: target.citizen@gmail.com
+Subject: URGENT & FINAL NOTICE: Digital Arrest Order and Asset Freeze Notice Under Section 66D IT Act
+Date: Sat, 21 Nov 2026 13:00:00 +0530
+Message-ID: <cbi-fir-arrest-warrant-100@cbi-gov.in>
+Return-Path: <relay-spoof@darknet-bulletproof.ru>
+Reply-To: investigator-desk@darknet-bulletproof.ru
+Received-SPF: fail (edge-mta.gateway.in: domain of cbi-gov.in does not designate 185.220.101.5 as permitted sender)
+Authentication-Results: edge-mta.gateway.in; spf=fail; dkim=fail; dmarc=fail action=reject
+DKIM-Signature: v=1; a=rsa-sha256; d=cbi-gov.in; s=2026; bh=invalidhash==; b=forgedsignature==
+Received: from mail.darknet-bulletproof.ru (185.220.101.5) by edge-mta.gateway.in with ESMTP; Sat, 21 Nov 2026 13:00:03 +0530
+Received: from 185.220.101.5 (tor-exit-01.torproject.org [185.220.101.5]) by mail.darknet-bulletproof.ru; Sat, 21 Nov 2026 13:00:01 +0530
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="====_NextPart_000_178956_===="
+
+--====_NextPart_000_178956_====
+Content-Type: text/plain; charset="utf-8"
+
+COURT SUMMONS AND IMMEDIATE ORDER OF DIGITAL ARREST UNDER CRPC SECTION 41A AND IT ACT SECTION 66D.
+
+You are indicted as the primary suspect in an international money laundering syndicate under FIR No. 2026/CBI/ND-4102.
+An immediate, non-bailable warrant of arrest has been registered against your national identity Aadhaar Number 9876-5432-1098 and PAN Card ABCDE1234F.
+
+BY ORDER OF THE HON'BLE SPECIAL COURT:
+You are placed under immediate 'DIGITAL ARREST'.
+To avoid immediate police arrest, connect to the judicial server and submit security collateral:
+http://185.220.101.5/cbi-judicial-escrow-portal/verify.php
+http://185.220.101.5/phish/portal.php
+http://sbi-kyc-verify.com/login.html
+http://incometax-refund-portal.in/auth.php
+
+Failure to complete credential verification, submit your NetBanking password, and transfer collateral within 60 minutes will result in immediate physical arrest by state police tactical teams.
+
+Deputy Inspector General of Police,
+Cyber & Economic Offences Wing,
+Central Bureau of Investigation, New Delhi
+
+--====_NextPart_000_178956_====
+Content-Type: application/octet-stream; name="Digital_Arrest_Warrant_Notice.pdf.exe"
+Content-Disposition: attachment; filename="Digital_Arrest_Warrant_Notice.pdf.exe"
+Content-Transfer-Encoding: base64
+
+TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAA2AAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1v
+ZGUuDQ0KJAAAAAAAAAA=
+
+--====_NextPart_000_178956_====--
